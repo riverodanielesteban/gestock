@@ -1,0 +1,9 @@
+/* Your app custom styles here */
+.page{
+	background-image: linear-gradient(to bottom right, orange, green);
+}
+.new-article-form {
+	text-align: center;
+	margin: 10%;
+	padding: auto;
+}
